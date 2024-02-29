@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "id": "prod123",
+        "price": 19.99,
+        "color": "red",
+        "name": "T-Shirt",
+        "brand": "TJMax",
+        "quantityInStock": 100
+      },
+      {
+        "id": "prod124",
+        "price": 29.99,
+        "color": "blue",
+        "name": "Jeans",
+        "brand": "Levi's",
+        "quantityInStock": 50
+      },
+      {
+        "id": "prod125",
+        "price": 9.99,
+        "color": "white",
+        "name": "Socks",
+        "brand": "Nike",
+        "quantityInStock": 200
+      }
+    ]
+  }
+  
